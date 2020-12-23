@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=pokerfaceSad alt=pokerfaceSad/> </p>
+<img align="left" src=https://komarev.com/ghpvc/?username=pokerfaceSad alt=pokerfaceSad/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=pokerfaceSad&hide=["stars"]&show_icons=true" width="400" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=pokerfaceSad&show_icons=true" width="400" />
