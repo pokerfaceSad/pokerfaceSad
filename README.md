@@ -1,7 +1,7 @@
 <p>
     <h1>XinYuan
     <img src="https://komarev.com/ghpvc/?username=pokerfaceSad"/>
-
+    <a href="https://www.zhihu.com/people/liu-xing-yu-78-17"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-xinyuan-blueviolet.svg?style=social" alt="Zhihu"  </a>
    </h1>
 </p>
 
@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="right">
-<img src="https://github-readme-stats.vercel.app/api?username=pokerfaceSad&show_icons=true" width="400" />
-</p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=pokerfaceSad&show_icons=true" width="400" />
 
 #### 🌱 Things I am currently working on: 
 - Finish my Master Degree  
