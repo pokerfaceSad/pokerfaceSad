@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=pokerfaceSad alt=pokerfaceSad/> </p>
-![XinYuan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pokerfaceSad&hide=["stars"]&show_icons=true)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=pokerfaceSad&hide=["stars"]&show_icons=true" width="400" />
