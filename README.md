@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pokerfaceSad&show_icons=true" width="400" />
 
 #### 🌱 Things I am currently working on: 
-- Finish my Master Degree  
+- Find A Suitable Job
+- Finish My Master Degree  
 - Docker & Kubernetes & GPU
 - Golang & Python & Java
